@@ -1,6 +1,6 @@
 # Image Encryption-Decryption Tool
 
-![Image Encryption Tool](https://via.placeholder.com/600x300.png?text=Image+Encryption+Tool) 
+![Image Encryption Tool] 
 
 ## Introduction
 The **Image Encryption-Decryption Tool** is a Python-based GUI application designed for secure image processing. This tool allows users to encrypt and decrypt images using randomly generated Gaussian noise as a key. Encrypted images become unintelligible, and can only be restored to their original form using the same key.
@@ -104,9 +104,6 @@ If you encounter any issues or have suggestions, feel free to contact:
 **Jesmen**
 
 ---
-
-![Sample Output](https://via.placeholder.com/600x300.png?text=Sample+Output)
-
 --- 
 
 You can find the project repository [here](https://github.com/JesmenJ/Enc-Dyp-for-image-Secure-coding-).
